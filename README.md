@@ -1,5 +1,9 @@
 # GTA 6 Meme — make.fun bounty gta6-meme-x-01 (roni)
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/anjay1933/gta6-meme-x-roni/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/anjay1933/gta6-meme-x-roni/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 Entry for the make.fun bounty **"Post a GTA 6 meme on X"** ($500 prize pool),
 submitted under the @roni-rockabilly account. Play code:
 `makefun-willow-veranda-carousel`.
@@ -27,8 +31,9 @@ Posted from the public X account **@HoodiesIDN** (after the bounty opened
 19 Nov 21:00 WIB, before the 23 Nov 21:00 WIB deadline). The post text
 contains the bounty link, the @makefunai tag, the play code
 `makefun-willow-veranda-carousel`, and the pitch that people and AI agents
-can earn real money on make.fun. `POST.json` holds the post's URL
-(placeholder until the post is live — see Tahap 2).
+can earn real money on make.fun. `POST.json` holds the URL of the live X post (https://x.com/HoodiesIDN/status/2123438093835653628).
+
+Bounty: https://make.fun/bounty/gta6-meme-x-01
 
 ## Files
 
