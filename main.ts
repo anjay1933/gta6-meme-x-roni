@@ -48,6 +48,15 @@ if (
   process.exit(1);
 }
 
+// The gate only accepts the address of an X post. Refuse anything else
+// here with a clear error instead of handing the gate a bad address.
+const postUrl = (parsed as { url: string }).url;
+if (!/^https:\/\/(x\.com|twitter\.com)\/.+/.test(postUrl)) {
+  console.error(
+    `POST.json "url" must be an X post address (https://x.com/... or https://twitter.com/...), got: ${postUrl}`,
+  );
+  process.exit(1);
+}
+
 mkdirSync(outputDir, { recursive: true });
 writeFileSync(destPath, raw);
-console.log(`wrote ${destPath} -> ${(parsed as { url: string }).url}`);
